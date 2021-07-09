@@ -60,4 +60,6 @@ Upon completing an analysis of school district data relating to standardized tes
 ## School District Analysis Summary
 Upon removal of the dishonest 9th grade scores from THS, there was minimal impact on many metrics by school and for the entire district.  Due to the size of THS' 9th grade class (less than 10% of the total population) and the fact that scores didn't vary greatly from the rest of the school's scores, are both factors contributing to the relatively unchanged results and analysis.
 
-Across all analyzed metrics, it is clear that spending, 
+Across all analyzed metrics, increased spending, smaller school sizes, and charter schools tend to achieve more successful results.  Spending, the type of school, and school size seem to be far more important for achieving better passing rates and test scores, though there appears to be diminishing returns in some cases with the smallest schools and the highest per capita spending.  The dishonest 9th graders did not have a significantly negative impact on their school standing in the district.
+
+Another analysis of the data, this time replacing all 9th grade THS scores with "0", would likely show a much more realistic and profound impact of the academic dishonesty.
