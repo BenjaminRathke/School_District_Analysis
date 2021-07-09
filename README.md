@@ -20,7 +20,7 @@ Upon completing an analysis of school district data relating to standardized tes
   * Relative to the other schools, while the values for THS overall did change, the changes were not significant enough for THS to lose its standing as the #2 school in the disctict.
 
 * Additional Impact Analysis:
-  * *Math Scores (Before Removing THS 9th Grade Scores): 
+  * Math Scores (Before Removing THS 9th Grade Scores):  
   ![Old_Math_Scores](Resources/math_scores_by_grade_old.PNG)
   * Math Scores (After Removing THS 9th Grade Scores):  
   ![New_Math_Scores](Resources/math_scores_by_grade_new.PNG)
@@ -28,8 +28,11 @@ Upon completing an analysis of school district data relating to standardized tes
   ![Old_Reading_Scores](Resources/reading_scores_by_grade_old.PNG)
   * Reading Scores (After Removing THS 9th Grade Scores):  
   ![New_Reading_Scores](Resources/reading_scores_by_grade_new.PNG)
-
+  * With the obvious exception of having NaN values for the 9th grade scores, removing the scores had no impact on the analysis; other schools and grades' average scores remained the same.
   * Scores by school spending
+  * ![Spending_Old](Resources/spending_old.PNG)
+  * ![Spending_New](Resources/spending_new.PNG)
+  * There was no significant impact (may be measurable in tenths or hundredths of a percent).
   * Scores by school size
   * Scores by school type
 
