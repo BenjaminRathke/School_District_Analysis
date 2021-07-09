@@ -59,3 +59,5 @@ Upon completing an analysis of school district data relating to standardized tes
 
 ## School District Analysis Summary
 Upon removal of the dishonest 9th grade scores from THS, there was minimal impact on many metrics by school and for the entire district.  Due to the size of THS' 9th grade class (less than 10% of the total population) and the fact that scores didn't vary greatly from the rest of the school's scores, are both factors contributing to the relatively unchanged results and analysis.
+
+Across all analyzed metrics, it is clear that spending, 
