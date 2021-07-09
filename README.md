@@ -53,8 +53,8 @@ Upon completing an analysis of school district data relating to standardized tes
 ***
 
   * Scores by school type
-    * ![Type_Old](Resources/size_old.PNG)
-    * ![Type_New](Resources/size_new.PNG)
+    * ![Type_Old](Resources/type_old.PNG)
+    * ![Type_New](Resources/type_new.PNG)
     * There was no significant impact (may be measurable in tenths or hundredths of a percent).
 
 ## School District Analysis Summary
